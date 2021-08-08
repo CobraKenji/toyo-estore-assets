@@ -1,0 +1,9 @@
+Explanation of naming convention:
+   
+manufacturerInitials-prouct-option-size.png 
+   
+cb-calpico-strawberry-500ml.png
+cb - Calpis Beverage Mfr
+calpico - prouct name
+strawberry - the (flavor) option
+size - volume or weight of product (ml, oz, lbs, kgs)
